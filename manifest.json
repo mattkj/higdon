@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Higdon",
+  "version": "0.1.0",
+  "description": "Convert Hal Higdon running plans to metric.",
+
+  "content_scripts": [
+    {
+      "matches": ["http://www.halhigdon.com/*"],
+      "js": ["script.js"]
+    }
+  ]
+}
