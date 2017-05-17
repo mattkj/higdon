@@ -10,4 +10,4 @@ The extension adds a "Convert to km" link below each training plan on http://www
 - Download and extract the zip file (https://github.com/mattkj/higdon/archive/master.zip)
 - In the chrome address bar type *chrome://extensions*
 - Drag and drop the *higdon* folder on to the page
-- Visit any of the training plans on http://www.halhigdon.com and the conversion link will automatically appear below the table
+- Visit any of the training plans at http://www.halhigdon.com/training/ and the conversion link will automatically appear below the table
