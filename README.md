@@ -59,3 +59,25 @@ Intermediate 2 | |
 Advanced | |
 HM3
 &nbsp; | &nbsp; | Walk
+
+### Marathon Training
+
+Full | Partial | Not Working
+---- | ------- | -----------
+Novice Supreme
+&nbsp;| Novice 1 | 
+&nbsp;| Novice 2 |
+&nbsp;| Intermediate 1 | |
+&nbsp;| Intermediate 2 | |
+&nbsp;| Advanced 1 | |
+&nbsp;| Advanced 2 | |
+Personal Best
+Marathon 3
+Senior
+Boston Bound
+&nbsp; | &nbsp; | Multiple Marathons
+&nbsp; | &nbsp; | Alternate / Postponed Marathon
+Dopey Challenge
+
+
+
