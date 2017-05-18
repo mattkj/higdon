@@ -40,3 +40,10 @@ Intermediate | |
 &nbsp; | Advanced |
 Walk | |
 
+### 15K & 10 mile Training
+
+Full | Partial | Not Working
+---- | ------- | -----------
+Novice |  | 
+Intermediate | |
+&nbsp; | Advanced |
