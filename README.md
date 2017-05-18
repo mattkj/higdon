@@ -31,7 +31,7 @@ Full | Partial | Not Working
 &nbsp; | Intermediate |
 &nbsp; | Advanced |
  
- ### 10K Training
+### 10K Training
 
 Full | Partial | Not Working
 ---- | ------- | -----------
@@ -47,3 +47,15 @@ Full | Partial | Not Working
 Novice |  | 
 Intermediate | |
 &nbsp; | Advanced |
+
+### Half Marathon Training
+
+Full | Partial | Not Working
+---- | ------- | -----------
+Novice 1 | | 
+Novice 2 | |
+Intermediate 1 | |
+Intermediate 2 | |
+Advanced | |
+HM3
+&nbsp; | &nbsp; | Walk
