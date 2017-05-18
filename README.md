@@ -27,7 +27,7 @@ Walk | |
 
 Full | Partial | Not Working
 ---- | ------- | -----------
- | Novice | 
+&nbsp; | Novice | 
  | Intermediate |
  | Advanced |
  
