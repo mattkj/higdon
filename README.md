@@ -16,7 +16,7 @@ The extension adds a "Convert to km" link below each training plan on http://www
 
 ### 5K Training
 
-Full | Partial | Not Working
+Fully Working | Partially Working | Not Working
 ---- | ------- | -----------
 Novice |  | 
 Intermediate | |
@@ -25,7 +25,7 @@ Walk | |
 
 ### 8K Training
 
-Full | Partial | Not Working
+Fully Working | Partially Working | Not Working
 ---- | ------- | -----------
 &nbsp; | Novice | 
 &nbsp; | Intermediate |
@@ -33,7 +33,7 @@ Full | Partial | Not Working
  
 ### 10K Training
 
-Full | Partial | Not Working
+Fully Working | Partially Working | Not Working
 ---- | ------- | -----------
 Novice |  | 
 Intermediate | |
@@ -42,7 +42,7 @@ Walk | |
 
 ### 15K & 10 mile Training
 
-Full | Partial | Not Working
+Fully Working | Partially Working | Not Working
 ---- | ------- | -----------
 Novice |  | 
 Intermediate | |
@@ -50,7 +50,7 @@ Intermediate | |
 
 ### Half Marathon Training
 
-Full | Partial | Not Working
+Fully Working | Partially Working | Not Working
 ---- | ------- | -----------
 Novice 1 | | 
 Novice 2 | |
@@ -62,7 +62,7 @@ HM3
 
 ### Marathon Training
 
-Full | Partial | Not Working
+Fully Working | Partially Working | Not Working
 ---- | ------- | -----------
 Novice Supreme
 &nbsp;| Novice 1 | 
