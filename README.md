@@ -14,6 +14,8 @@ The extension adds a "Convert to km" link below each training plan on http://www
 
 ## Compatibility
 
+Due to the sheer number of training programs and inconsistant formatting, *higdon* only works fully with some training programs.
+
 ### 5K Training
 
 Fully Working | Partially Working | Not Working
