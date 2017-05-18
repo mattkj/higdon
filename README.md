@@ -14,6 +14,11 @@ The extension adds a "Convert to km" link below each training plan on http://www
 
 ## Compatibility
 
+#### 5K Training
+
 Full | Partial | Not Working
------------- | ------------- | -------------
-Content | Content | Content 
+---- | ------- | -----------
+Novice |  | 
+Intermediate | |
+Advanced | |
+Walk | |
