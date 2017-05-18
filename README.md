@@ -28,8 +28,8 @@ Walk | |
 Full | Partial | Not Working
 ---- | ------- | -----------
 &nbsp; | Novice | 
- | Intermediate |
- | Advanced |
+&nbsp; | Intermediate |
+&nbsp; | Advanced |
  
  ### 10K Training
 
@@ -37,6 +37,6 @@ Full | Partial | Not Working
 ---- | ------- | -----------
 Novice |  | 
 Intermediate | |
- | Advanced |
+&nbsp; | Advanced |
 Walk | |
 
